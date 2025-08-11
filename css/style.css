@@ -515,4 +515,9 @@ footer p {
     }
 }
 
-
+.hero-content p,
+.card-content p,
+.content-text p,
+.curiosity-card p {
+    text-align: justify;
+}
