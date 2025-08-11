@@ -149,6 +149,7 @@ nav ul li a.active::after {
     font-size: 1.2rem;
     margin-bottom: 30px;
     max-width: 700px;
+    text-justify: auto;
 }
 
 .btn {
@@ -294,7 +295,7 @@ nav ul li a.active::after {
     margin-bottom: 20px;
     font-size: 1.1rem;
     color: var(--text-gray);
-    text-justify: inter-word;
+    text-justify: auto;
 }
 
 .content-image img {
@@ -513,4 +514,5 @@ footer p {
         padding-bottom: 56.25%;
     }
 }
+
 
