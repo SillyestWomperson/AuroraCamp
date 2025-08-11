@@ -294,6 +294,7 @@ nav ul li a.active::after {
     margin-bottom: 20px;
     font-size: 1.1rem;
     color: var(--text-gray);
+    text-justify: inter-word;
 }
 
 .content-image img {
@@ -512,3 +513,4 @@ footer p {
         padding-bottom: 56.25%;
     }
 }
+
